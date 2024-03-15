@@ -17,8 +17,8 @@ The database contains relevant climate data for analysis.
 Utilizes SQLAlchemy, Python Pandas, and Matplotlib libraries to perform data analysis and visualization.
 Analysis Outputs:
 
--Local precipitation summaries for each weather station.
--Temperature dailies for a customizable range of trip dates.
+- Local precipitation summaries for each weather station.
+- Temperature dailies for a customizable range of trip dates.
 
 Visualizations:
 
