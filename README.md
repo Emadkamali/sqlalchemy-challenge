@@ -24,6 +24,7 @@ Visualizations:
 
 Bar charts, histograms, and area charts are generated within the notebook.
 Additionally, these visualizations are saved as .png files in the sqlalchemy-challenge folder for easy reference.
+
 ![image](https://github.com/Emadkamali/sqlalchemy-challenge/assets/129677932/be754b29-6e9f-47b9-a588-18facc0b668d)
 
 # Part II: Climate App
@@ -57,6 +58,7 @@ SQLite Database (Located at Resources/Hawaii.sqlite)
 
 Implements the endpoints specified above to interact with the database and retrieve relevant climate information.
 This climate app facilitates easy access to critical climate data, supporting decision-making processes and enhancing user experience.
+
 ![image](https://github.com/Emadkamali/sqlalchemy-challenge/assets/129677932/1deed164-68fe-4db7-8ac6-14aeb0e73475)
 
 
