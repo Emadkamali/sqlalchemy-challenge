@@ -52,7 +52,7 @@ Components include:
 
 SQLite Database (Located at Resources/Hawaii.sqlite)
 
--Contains the necessary climate data for querying.
+- Contains the necessary climate data for querying.
 - Flask Application (File: sqlalchemy-challenge/app.py)
 
 Implements the endpoints specified above to interact with the database and retrieve relevant climate information.
